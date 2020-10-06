@@ -1,9 +1,9 @@
 {
-    "name": "nepalcodetv-react-ui",
+    "name": "rollup-react-starter",
     "version": "1.0.0",
-    "description": "Modern React Ui Component",
+    "description": "rollup react starter",
     "keywords": [
-        "React UI",
+        "rollup react starter",
         "Component"
     ],
     "main": "dist/index.js",
